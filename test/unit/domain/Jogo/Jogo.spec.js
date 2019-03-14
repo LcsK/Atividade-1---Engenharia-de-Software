@@ -1,8 +1,8 @@
-const Jogo = require('../../../../domain/jogo');
+const Jogo = require('../../../../src/domain/jogo');
 
 // Third components
-const Participante = require('../../../../domain/participante');
-const Resultado = require('../../../../domain/resultado');
+const Participante = require('../../../../src/domain/participante');
+const Resultado = require('../../../../src/domain/resultado');
 
 describe('Jogo', () => {
   describe('um resultado é adicionado em um jogo', () => {
