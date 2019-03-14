@@ -1,0 +1,17 @@
+{
+  "name": "aula-25-02-209",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest test/unit/domain/Jogo/Jogo.spec.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^24.1.0",
+    "sinon": "^7.2.4",
+    "tape": "^4.10.1"
+  }
+}
