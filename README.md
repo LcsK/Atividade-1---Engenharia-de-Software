@@ -1,9 +1,9 @@
 Atividade 1 - Engenharia de Software
 
 Alunos:
-Alison Massaki Cheno - 153048
-Caio Santos Pedroso - 150456
-Lucas Antonio Ferreira Lopes - 152262
+- Alison Massaki Cheno - 153048
+- Caio Santos Pedroso - 150456
+- Lucas Antonio Ferreira Lopes - 152262
 
 Como rodar:
 - Ter NodeJS e NPM instalados
